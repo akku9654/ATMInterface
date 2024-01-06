@@ -10,7 +10,6 @@ class BankAccount {
 	int transactions = 0;
 	String transactionHistory = "";
 	
-	
 	public void register() {
 	    
 	    System.out.print("\n Hello User\n Please enter your details");
